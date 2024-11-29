@@ -121,20 +121,21 @@ a {
 }
 
 .team {
-
+    background-color: #F4F4FD
 }
 
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
 
-.team-list {
 
+.team-list {
+    background-color: #FFFFFF
 }
 
 .team-item {
@@ -183,7 +184,7 @@ a {
 
 
 .portfolio-img {
-
+    width: 360px;
 }
 
 .portfolio-title-name {
