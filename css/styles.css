@@ -75,8 +75,9 @@ a {
 .title-hero {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07;
+    line-height: 1.07143;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 
@@ -103,10 +104,7 @@ a {
 
 .offer-item {}
 
-.offer-strategy-title,
-.offer-putctuality-title,
-.offer-diligence-title,
-.offer-technologies-title {
+.offer-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -114,10 +112,7 @@ a {
     color: #2e2f42;
 }
 
-.offer-technologies-text,
-.offer-strategy-text,
-.offer-putctuality-text,
-.offer-diligence-text {
+.offer-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -130,7 +125,12 @@ a {
 }
 
 .team-title {
-
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 
 .team-list {
@@ -141,10 +141,7 @@ a {
 
 }
 
-.daniel-wilson,
-.camilagarcia, 
-.tomford,
-.markguerrero {
+.team-img {
 }
 
 .team-name {
@@ -185,21 +182,11 @@ a {
 }
 
 
-.banking,
-.cashless,
-.taxi,
-.meditation,
-.screen,
-.courses {
+.portfolio-img {
 
 }
 
-.banking-title
-.cashless-title
-.meditation-title 
-.taxi-title 
-.screen-title 
-.courses-title {
+.portfolio-title-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -207,12 +194,7 @@ a {
     color: #2e2f42;
 }
 
-.banking-text
-.cashless-text,
-.meditation-text,
-.taxi-text,
-.screen-text,
-.courses-text {
+.portfolio-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
